@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+    border-image-slice: inherit;
+    border-image-width: 50%;
+    image
+}
+h1{
+    color:chocolate;
+    text-align: center;
+}
+div{
+    background-color: darkseagreen;
+}
+h2{
+    text-decoration: black;
+    text-align: center;
+}
+
+.image {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
